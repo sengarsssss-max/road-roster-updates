@@ -33,3 +33,7 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# this page exists to serve the app file
+!RoadRoster.apk
+!app/*.apk
