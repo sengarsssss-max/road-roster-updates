@@ -1,0 +1,22 @@
+{
+ "app": {
+  "code": 122,
+  "name": "1.22",
+  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/app/RoadRoster-1.22.apk",
+  "size": 6080151,
+  "sha256": "8564595c70fae6c6f0de5865b9df13d8f53f65949c107e2c9b701651bddab5db",
+  "notes": "सब कुछ आवाज़ से: अपडेट और सेटिंग; ऐप सिर्फ़ 6 MB"
+ },
+ "model": {
+  "id": "vosk-model-small-hi-0.22",
+  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/packs/model-vosk-model-small-hi-0.22.zip",
+  "size": 44375397,
+  "sha256": "24c9ee060693f41b3b7e2e634cfc471df8daedf0344ec2d4e69356d8ad702b06"
+ },
+ "map": {
+  "id": "osm-india-2026-11-07",
+  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/packs/map-osm-india-2026-11-07.zip",
+  "size": 14026451,
+  "sha256": "4cbde38beeaa9473e4bce6f82364f9bb1146cf83fbae6f3fb97a045eb54c3f11"
+ }
+}
