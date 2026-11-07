@@ -1,11 +1,11 @@
 {
  "app": {
-  "code": 122,
-  "name": "1.22",
-  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/app/RoadRoster-1.22.apk",
-  "size": 6080151,
-  "sha256": "8564595c70fae6c6f0de5865b9df13d8f53f65949c107e2c9b701651bddab5db",
-  "notes": "सब कुछ आवाज़ से: अपडेट और सेटिंग; ऐप सिर्फ़ 6 MB"
+  "code": 131,
+  "name": "1.31",
+  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/app/RoadRoster-1.31.apk",
+  "size": 6083631,
+  "sha256": "d41508347772b384fa62f4b719353b363fbf72f6d0fe824af7cf1de529546e27",
+  "notes": "फ़ोन ठंडा: इंजन सिर्फ़ बोलते समय; रूट प्लान के सब तरीके; जाँच पैनल"
  },
  "model": {
   "id": "vosk-model-small-hi-0.22",
