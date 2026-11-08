@@ -1,11 +1,11 @@
 {
  "app": {
-  "code": 131,
-  "name": "1.31",
-  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/app/RoadRoster-1.31.apk",
-  "size": 6083631,
-  "sha256": "d41508347772b384fa62f4b719353b363fbf72f6d0fe824af7cf1de529546e27",
-  "notes": "फ़ोन ठंडा: इंजन सिर्फ़ बोलते समय; रूट प्लान के सब तरीके; जाँच पैनल"
+  "code": 139,
+  "name": "1.39",
+  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/app/RoadRoster-1.39.apk",
+  "size": 6130445,
+  "sha256": "95d8c598d9a0a03d8f8c46fa20f0d347e6decb37e7678901926a41d0a3622752",
+  "notes": "अपनी पसंद का नाम, राम राम अभिवादन, मधुर आवाज़, बोलकर संदेश व कॉल, सिर्फ़ आपका व्हाट्सएप, भेजी लोकेशन पर रास्ता, आगे शौचालय, ज़्यादा शब्द"
  },
  "model": {
   "id": "vosk-model-small-hi-0.22",
@@ -14,9 +14,9 @@
   "sha256": "24c9ee060693f41b3b7e2e634cfc471df8daedf0344ec2d4e69356d8ad702b06"
  },
  "map": {
-  "id": "osm-india-2026-11-07",
-  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/packs/map-osm-india-2026-11-07.zip",
-  "size": 14026451,
-  "sha256": "4cbde38beeaa9473e4bce6f82364f9bb1146cf83fbae6f3fb97a045eb54c3f11"
+  "id": "osm-india-2026-11-08",
+  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/packs/map-osm-india-2026-11-08.zip",
+  "size": 14084551,
+  "sha256": "887fa3672b5982ea524183e166daefce061da5790be5346f4d759a9807f02ebf"
  }
 }
