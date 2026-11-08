@@ -18,5 +18,11 @@
   "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/packs/map-osm-india-2026-11-08.zip",
   "size": 14084551,
   "sha256": "887fa3672b5982ea524183e166daefce061da5790be5346f4d759a9807f02ebf"
+ },
+ "lex": {
+  "id": "lex-2026-11-08b",
+  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/packs/lexicon-lex-2026-11-08b.txt",
+  "size": 15197,
+  "sha256": "e1cd53e3d99d76c49d9e6a992ac225894e5ac437564a58be518bb035d107bbd0"
  }
 }
