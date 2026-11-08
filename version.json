@@ -1,11 +1,11 @@
 {
  "app": {
-  "code": 139,
-  "name": "1.39",
-  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/app/RoadRoster-1.39.apk",
-  "size": 6130445,
-  "sha256": "95d8c598d9a0a03d8f8c46fa20f0d347e6decb37e7678901926a41d0a3622752",
-  "notes": "अपनी पसंद का नाम, राम राम अभिवादन, मधुर आवाज़, बोलकर संदेश व कॉल, सिर्फ़ आपका व्हाट्सएप, भेजी लोकेशन पर रास्ता, आगे शौचालय, ज़्यादा शब्द"
+  "code": 142,
+  "name": "1.42",
+  "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/app/RoadRoster-1.42.apk",
+  "size": 6135761,
+  "sha256": "59547ff572f28c282e6b4d97f561cb51373b088389f6658dc6811e595520468a",
+  "notes": "रोज़ की बोलचाल ज़्यादा समझता है; फोन काटो किसी भी तरह; आगे एटीएम, दवा, अस्पताल, थाना, पंचर; ऐप उनके काम से (ब्राउज़र, गैलरी, सेटिंग)"
  },
  "model": {
   "id": "vosk-model-small-hi-0.22",
@@ -16,8 +16,8 @@
  "map": {
   "id": "osm-india-2026-11-08",
   "url": "https://raw.githubusercontent.com/sengarsssss-max/road-roster-updates/main/packs/map-osm-india-2026-11-08.zip",
-  "size": 14084551,
-  "sha256": "887fa3672b5982ea524183e166daefce061da5790be5346f4d759a9807f02ebf"
+  "size": 15882699,
+  "sha256": "9b825d4a38266b6b130a5e35302303a50b32967e8c27d6cc634dee8805774743"
  },
  "lex": {
   "id": "lex-2026-11-08b",
